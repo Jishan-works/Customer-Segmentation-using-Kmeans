@@ -10,7 +10,7 @@
 
 Python Version: 3.7
 
-Packages: pandas, sklearn, matplotlib, tensorflow.
+Packages: pandas, sklearn, matplotlib, seaborn, tensorflow.
 
 ## Model Building:
 
@@ -23,7 +23,7 @@ For vizualization purpose used PCA and reduced the features to two PCA component
 
 ![alt text](https://github.com/Jishan-works/Customer-Segmentation-using-Kmeans/blob/master/cluster1.png)
 
-### Visualization of customer segmentation using PCA(7 clusters)
+### Visualization of customer segmentation using PCA(3 clusters)
 
 ![alt text](https://github.com/Jishan-works/Customer-Segmentation-using-Kmeans/blob/master/cluster2.png)
 
