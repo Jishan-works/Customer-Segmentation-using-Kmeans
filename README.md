@@ -14,9 +14,9 @@ Packages: pandas, sklearn, matplotlib, seaborn, tensorflow.
 
 ## Model Building:
 
-* Used K-means to cluster the customers. Optimum k value was found using Elbow method and Silhouette method.
-* Got 7 clusters but required less cluters. So used Autoencoders to reduce the dimensions.
-* Once again performed clustering using K-means. This time used optimum K-value as 3 based on elbow method and silhouette score.
+* Used K-means algorithm to cluster the customers. Optimum k-value was found using Elbow method and Silhouette score.
+* Got 7 customer segements but required less segments. So used Autoencoders to reduce the dimensions.
+* After dimensionality reduction, once again performed clustering using K-means. This time used optimum K-value as 3 based on elbow method and silhouette score.
 * For vizualization purpose used PCA and reduced the features to two PCA components.
 
 ### Visualization of customer segmentation using PCA(7 clusters)
