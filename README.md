@@ -1,6 +1,6 @@
-# Repo for customer segmentation using 
+# Repo for customer segmentation
 
-1. Built a simple model to segment customers.
+1. Built a simple model to segment customers which can be used for target marketing.
 2. Bank customer data was used.
 3. Cleaned the data and performed EDA to get a better understanding of the data.
 4. Autoencoders and PCA were used for dimensionality reduction and visualizations.
